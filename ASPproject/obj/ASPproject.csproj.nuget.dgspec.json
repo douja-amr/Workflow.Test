@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject\\ASPproject.csproj": {}
+    "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject\\ASPproject.csproj": {
+    "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject\\ASPproject.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject.csproj",
         "projectName": "ASPproject",
-        "projectPath": "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject\\ASPproject.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\ASPproject\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\Desktop\\Github-repo\\Workflow.Test\\ASPproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
