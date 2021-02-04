@@ -45,11 +45,11 @@ jobs:
 
     - name: Build
       run: |
-        dotnet restore DotNet.Core.Console.Exemple/DotNet.Core.Console.Exemple.csproj
-        msbuild /t:Pack /p:Configuration=Debug DotNet.Core.Console.Exemple/DotNet.Core.Console.Exemple.csproj
+        dotnet restore ASPproject/ASPproject.csproj
+        msbuild /t:Pack /p:Configuration=Debug ASPproject/ASPproject.csproj
     
     - name: Copy
-      run: copy DotNet.Core.Console.Exemple/bin/Debug/*.nupkg .
+      run: copy ASPproject/bin/Debug/*.nupkg .
     
     # - name: PushNuget
     #   run: dotnet nuget push *.nupkg --source https://api.nuget.org/v3/index.json --api-key ${{ secrets.PUBLISH_TO_NUGET_ORG }} --skip-duplicate
